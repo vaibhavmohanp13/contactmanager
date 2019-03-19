@@ -104,7 +104,7 @@ console.log(res.data)
 
                   <input
                     type="submit"
-                    value="Edit Contact"
+                    value="Update Contact"
                     className="btn btn-block btn-light"
                   />
                 </form>
